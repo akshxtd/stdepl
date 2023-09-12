@@ -1,0 +1,25 @@
+[theme]
+
+# The preset Streamlit theme that your custom theme inherits from.
+# One of "light" or "dark".
+base = "dark"
+
+# Primary accent color for interactive elements.
+# The value below was set in C:\xamppp\htdocs\talenticks_webapp\python\.streamlit\config.toml
+primaryColor = "#A27B5C"
+
+# Background color for the main content area.
+# The value below was set in C:\xamppp\htdocs\talenticks_webapp\python\.streamlit\config.toml
+backgroundColor = "#35155D"
+
+# Background color used for the sidebar and most interactive widgets.
+# The value below was set in C:\xamppp\htdocs\talenticks_webapp\python\.streamlit\config.toml
+secondaryBackgroundColor = "#3F4E4F"
+
+# Color used for almost all text.
+# The value below was set in C:\xamppp\htdocs\talenticks_webapp\python\.streamlit\config.toml
+textColor = "#DCD7C9"
+
+# Font family for all text in the app, except code blocks. One of "sans serif",
+# "serif", or "monospace".
+font = "sans serif"
