@@ -59,4 +59,5 @@ with photos:
     st.markdown("""<a href="{}" target="_self"><button class='stButton'>Click Here! </button></a>""".format(new_page_url), unsafe_allow_html=True)
 
 with end:
+    st.balloons()
     st.write("I am sorry for messing up the audio. I like music and beats a lot but messed it up in the worst possible way. Anyways, cheers to us sru !")
