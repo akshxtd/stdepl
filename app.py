@@ -55,6 +55,10 @@ with photos:
     """,
     unsafe_allow_html=True
     )
+    video_file = open('XFPH6413.mp4', 'rb')
+    video_bytes = video_file.read()
+
+    st.video(video_bytes)
     new_page_url = "https://drive.google.com/file/d/1_TXDfD07mg15ILjPVhVwku-tCekiZ0_-/view?usp=sharing"
     st.markdown("""<a href="{}" target="_self"><button class='stButton'>Click Here! </button></a>""".format(new_page_url), unsafe_allow_html=True)
 
