@@ -57,7 +57,7 @@ with photos:
     )
 
     new_page_url = "https://drive.google.com/file/d/1_TXDfD07mg15ILjPVhVwku-tCekiZ0_-/view?usp=sharing"
-    st.write("Here")
+
     st.markdown("""<a href="{}" target="_blank"><button class='stButton'>Click Here! </button></a>""".format(new_page_url), unsafe_allow_html=True)
 
 with end:
