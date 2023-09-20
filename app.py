@@ -62,4 +62,4 @@ with photos:
 
 with end:
     st.balloons()
-    st.write("I am sorry for messing up the audio. I like music and beats a lot but messed it up in the worst possible way. Anyways, cheers to us sru !")
+    st.write("I am sorry for messing up the audio. I like music and beats a lot but messed it up in the worst possible way. Also I fixed the rotting of flowers issue as well. Ask Srimshti. Hope you liked all this and I love you. Cheers to us sru !")
