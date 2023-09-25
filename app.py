@@ -62,4 +62,4 @@ with photos:
 
 with end:
     st.balloons()
-    st.write("I am sorry for messing up the audio. I like music and beats a lot but messed it up in the worst possible way. Also I fixed the rotting of flowers issue as well. Ask Srimshti. Hope you liked all this and I love you. Cheers to us sru !")
+    st.write("I am sorry for messing up the audio. I like music and beats a lot but messed it up in the worst possible way. Also I fixed the rotting of flowers issue as well. It's something kept in the room you are not very fond of. In the room, it's located at such a place where Ganpati Bappa could see it during visarjan but your back could see it not you. Hope you liked all this and I love you. Cheers to us sru !")
